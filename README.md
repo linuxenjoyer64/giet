@@ -21,7 +21,7 @@ The only way to install Giet currently is to compile it from source.
 You need [Go](https://go.dev/doc/install) and [Git](https://git-scm.com/install/linux).
 
 ```sh
-git clone https://github.com/hypedahmed/giet.git
+git clone https://github.com/linuxenjoyer64/giet.git
 cd giet/src
 go mod init giet
 go mod tidy
